@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Some interestong projects from 42 Warsaw
+## 🚀 Some interesting projects from 42 Warsaw
 
 | Project | Description |
 |----------|--------------|
