@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Kamil
 
-<!--
-**K4milJ/K4milJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+🌱 Currently, I'm studying Software Engineering @ 42 Warsaw and Physics @ University of Warsaw.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Technology
+
+**Languages:**  
+`C` `C++` `Python` `Julia`
+
+**Other Tools:**  
+`Git` `VS Code` `Linux`
+
+---
+
+## 🚀 Some interestong projects from 42 Warsaw
+
+| Project | Description |
+|----------|--------------|
+| [🔗 Minishell](https://github.com/Areyz/Minishell) | Bash-inspired shell written in C |
+| [🔗 Philosophers](https://github.com/K4milJ/Philosophers_42) | Threads and concurrent programming |
