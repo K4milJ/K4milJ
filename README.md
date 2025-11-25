@@ -20,3 +20,5 @@
 |----------|--------------|
 | [🔗 Minishell](https://github.com/Areyz/Minishell) | Bash-inspired shell written in C |
 | [🔗 Philosophers](https://github.com/K4milJ/Philosophers_42) | Threads and concurrent programming |
+| [🔗 fract-ol](https://github.com/K4milJ/fract-ol_42) | Generating fractals using MiniLibX and C |
+
