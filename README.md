@@ -23,3 +23,8 @@
 | [🔗 fract-ol](https://github.com/K4milJ/fract-ol_42) | Generating fractals using MiniLibX and C |
 | [🔗 minitalk](https://github.com/K4milJ/minitalk_42) | Sending messages using UNIX signals |
 
+## 🚀 Other projects
+
+| Project | Description |
+|----------|--------------|
+| [🔗 SOC](https://github.com/jskol/SOC_Code_V1) | Calculations for various spin structures (Institute of Physics of the Polish Academy of Sciences)|
